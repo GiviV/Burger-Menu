@@ -27,7 +27,7 @@ header {
 }
 
 img {
-    width: 72px;
+    max-width: 72px;
 }
 
 nav a {
@@ -59,7 +59,7 @@ button img {
         background-color: rgba(22, 22, 95, 0.766);
         backdrop-filter: blur(8px);
         top: 0;
-        left: 150vw;
+        left: 120vw;
         bottom: 0;
         right: 0;
         z-index: -1;

@@ -4,7 +4,7 @@ burgergButton.addEventListener("click", function () {
 
 
     if (nav.style.left == '0vw') {
-        nav.style.left = '150vw'
+        nav.style.left = '120vw'
     }
     else {
         nav.style.left = '0vw'
